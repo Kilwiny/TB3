@@ -65,13 +65,18 @@
     line-height: 28px;
     
 }
-.home-page-2 button{
+
+.footer-button{
+    display: flex;
+    justify-content: center;
+}
+
+.footer-button button{
     width: 200px;
     height: 60px;
     border: solid 1.4px #458FF6;
     border-radius: 55px;
     color:#458FF6;
-    position: absolute;
-    top: 2038px;
-    left: 670px;
+    margin-top: 50px;
+    
 }
