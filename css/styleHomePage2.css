@@ -24,6 +24,7 @@
     color: #000000;
     mix-blend-mode: normal;
 }
+
 .descricao-service p{
     font-family: 'Mulish';
     font-style: normal;
@@ -50,13 +51,17 @@
     margin-top: 58px;
     margin-left: 36px;
 }
+
+#img5{
+    margin-bottom: 50px;
+}
 .conteiner-block .flex-box h3{
     margin-left: 36px;
     font-weight: 700;
     font-size: 24px;
     line-height: 56px
 }
-.conteiner-block>.flex-box>p{
+.conteiner-block .flex-box p{
     margin-left: 36px;
     color: #7D7987;
     font-style: normal;
@@ -77,6 +82,6 @@
     border: solid 1.4px #458FF6;
     border-radius: 55px;
     color:#458FF6;
-    margin-top: 50px;
+    margin-top: 10rem;
     
 }
