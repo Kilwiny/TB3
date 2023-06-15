@@ -72,7 +72,7 @@ section{
     line-height: 60px;
     color: #FFFFFF;
     margin-top: 44px;
-
+    cursor: pointer;
 }
 
 .conteudo-imagem>img{
@@ -86,7 +86,7 @@ section{
     opacity: 0.5;
     font-size: 18px;
 }
-.elemento.home{
+.elemento:hover{
     color: #1F1534;
     font-weight: 700;
     opacity: 1.0;
